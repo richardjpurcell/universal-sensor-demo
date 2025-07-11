@@ -1,0 +1,24 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Geospatial processing
+geopandas
+shapely
+fiona
+pyproj
+rtree  # for spatial joins
+gdal   # optional, but required for some GPKG operations
+
+# File and system utilities
+tqdm
+pyyaml
+
+# Plotting utilities (optional but recommended)
+imageio
+
+# Environment variables
+python-dotenv
